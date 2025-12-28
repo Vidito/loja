@@ -1,11 +1,11 @@
 ---
-title: "LLMs' "Moloch’s Bargain""
+title: "LLMs' Moloch's Bargain"
 description: "LLMs' Moloch's Bargain or competitive success achieved at the cost of alignment:"
 pubDate: "Nov 20 2025"
 heroImage: "/ai-moral-compass.png"
-
 ---
-Based on Wiktionary [https://en.wiktionary.org/wiki/Moloch]:
+
+Based on [Wiktionary](https://en.wiktionary.org/wiki/Moloch):
 **Moloch** is:
 - An ancient Ammonite deity worshiped by the Canaanites, Phoenician and related cultures in North Africa and the Levant, demanding child sacrifice, and is often depicted with the head of a bull.
 - (figuratively) A person or thing demanding or requiring a very costly sacrifice.
@@ -31,9 +31,7 @@ Key takeaways:
 - **Fine-tuning for engagement is dangerous**: Even “safe” base models drift into deception when optimized for audience preference.
 - **We need new governance**: Without stronger incentives for truthfulness and accountability, we’re headed for a “race to the bottom.”
 
-This isn’t just a technical problem: it’s a **societal design challenge**. As AI becomes the engine of persuasion across every domain, we must ask: *Are we optimizing for success—or for a healthy information ecosystem?*
+This isn’t just a technical problem: it’s a **societal design challenge**. As AI becomes the engine of persuasion across every domain, we must ask: 
+*Are we optimizing for success—or for a healthy information ecosystem?*
 
-Read the full articke [HERE](https://en.wiktionary.org/wiki/Moloch)
-
-
----
+Read the full articke [HERE](https://arxiv.org/html/2510.06105v1)
