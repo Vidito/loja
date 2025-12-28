@@ -1,6 +1,7 @@
 ---
 import { SITE_TITLE, NAV_ITEMS } from "../consts";
 import ThemeIcon from "./ThemeIcon.astro";
+import { createLink } from "../utils";
 ---
 
 <header
@@ -8,7 +9,7 @@ import ThemeIcon from "./ThemeIcon.astro";
 >
   <div class="text-2xl font-semibold tracking-tight mb-4 sm:mb-0">
     <a
-      href="/"
+      href={createLink("/")}
       class="text-slate-900 dark:text-white hover:text-slate-600 dark:hover:text-slate-300 transition-colors"
       >{SITE_TITLE}</a
     >
@@ -21,7 +22,7 @@ import ThemeIcon from "./ThemeIcon.astro";
         NAV_ITEMS.map((item) => (
           <li>
             <a
-              href={item.href}
+              href={createLink(item.href)}
               class="hover:text-slate-900 dark:hover:text-white transition-colors"
               target={item.href.startsWith("http") ? "_blank" : "_self"}
             >

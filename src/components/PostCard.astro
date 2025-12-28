@@ -1,10 +1,10 @@
 ---
 const { post } = Astro.props;
-import { formatDate } from "../utils";
+import { formatDate, createLink } from "../utils";
 ---
 
 <article class="group mb-10">
-  <a href={`/post/${post.slug}/`} class="block p-1 rounded-lg">
+  <a href={createLink(`/post/${post.slug}/`)} class="block p-1 rounded-lg">
     <div
       class="flex flex-col sm:flex-row sm:items-baseline gap-2 sm:gap-4 mb-2"
     >
