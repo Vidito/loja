@@ -1,0 +1,19 @@
+
+> owntheme@0.0.1 build
+> astro build
+
+[2m22:14:50[22m [34m[content][39m Syncing content
+[2m22:14:50[22m [34m[content][39m Synced content
+[2m22:14:50[22m [34m[types][39m Generated [2m275ms[22m
+[2m22:14:50[22m [34m[build][39m output: [34m"static"[39m
+[2m22:14:50[22m [34m[build][39m mode: [34m"static"[39m
+[2m22:14:50[22m [34m[build][39m directory: [34mD:\Playground\owntheme\dist\[39m
+[2m22:14:50[22m [34m[build][39m Collecting build info...
+[2m22:14:50[22m [34m[build][39m [32m✓ Completed in 287ms.[39m
+[2m22:14:50[22m [34m[build][39m Building static entrypoints...
+22:14:51 [ERROR] [vite] ✗ Build failed in 270ms
+Could not resolve "../layouts/BaseLayout.astro" from "src/pages/post/[...slug].astro"
+file: D:/Playground/owntheme/src/pages/post/[...slug].astro
+  Stack trace:
+    at getRollupError (file:///D:/Playground/owntheme/node_modules/rollup/dist/es/shared/parseAst.js:401:41)
+    at ModuleLoader.handleInvalidResolvedId (file:///D:/Playground/owntheme/node_modules/rollup/dist/es/shared/node-entry.js:21661:24)

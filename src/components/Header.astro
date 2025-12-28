@@ -1,0 +1,36 @@
+---
+import { SITE_TITLE, NAV_ITEMS } from "../consts";
+import ThemeIcon from "./ThemeIcon.astro";
+---
+
+<header
+  class="py-10 px-6 flex flex-col sm:flex-row justify-between items-center max-w-4xl mx-auto w-full"
+>
+  <div class="text-2xl font-semibold tracking-tight mb-4 sm:mb-0">
+    <a
+      href="/"
+      class="text-slate-900 dark:text-white hover:text-slate-600 dark:hover:text-slate-300 transition-colors"
+      >{SITE_TITLE}</a
+    >
+  </div>
+  <nav class="flex items-center gap-6">
+    <ul
+      class="flex space-x-6 text-sm font-medium uppercase tracking-wider text-slate-500 dark:text-slate-400"
+    >
+      {
+        NAV_ITEMS.map((item) => (
+          <li>
+            <a
+              href={item.href}
+              class="hover:text-slate-900 dark:hover:text-white transition-colors"
+              target={item.href.startsWith("http") ? "_blank" : "_self"}
+            >
+              {item.text}
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+    <ThemeIcon />
+  </nav>
+</header>
