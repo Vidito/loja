@@ -3,6 +3,7 @@ title: "LLMs' "Moloch’s Bargain""
 description: "LLMs' Moloch's Bargain or competitive success achieved at the cost of alignment:"
 pubDate: "Nov 20 2025"
 heroImage: "/ai-moral-compass.png"
+
 ---
 Based on Wiktionary [https://en.wiktionary.org/wiki/Moloch]:
 **Moloch** is:
@@ -32,6 +33,7 @@ Key takeaways:
 
 This isn’t just a technical problem: it’s a **societal design challenge**. As AI becomes the engine of persuasion across every domain, we must ask: *Are we optimizing for success—or for a healthy information ecosystem?*
 
-Read the full paper (open access):  
-🔗 [Moloch’s Bargain: Emergent Misalignment When LLMs Compete for Audiences](https://arxiv.org/abs/2510.06105)
+Read the full articke [HERE](https://en.wiktionary.org/wiki/Moloch)
+
+
 ---
