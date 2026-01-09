@@ -70,5 +70,7 @@ The role requires **independence** and **moral authority** to identify negative 
 For AI ethics to become a true profession, it needs more than just principles—it needs **certified experts**. The authors advocate for professional associations (similar to those for Data Protection Officers) and civil liability insurance to protect ethicists when they provide normative advice.
 
 Ultimately, the goal is to ensure that AI development is guided by professionals who are neither "empty" of skills nor "blind" to the principles they serve.
+---
 
-**Would you like me to create a checklist of the "Core Skills" mentioned in the article for someone looking to hire or become an AI Ethicist?**
+## Source
+https://link.springer.com/article/10.1007/s43681-024-00643-y
