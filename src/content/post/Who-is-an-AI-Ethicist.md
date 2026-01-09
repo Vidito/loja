@@ -2,7 +2,7 @@
 title: "Who is an AI Ethicist? Defining a New Profession"
 description: "A summary of the 2025 empirical study by Cocchiaro, Floridi, et al. on the competency framework for AI Ethicists."
 pubDate: "Jan 09 2026"
-heroImage: "/ai-ethicist-framework.png"
+heroImage: "/ai-ethicist.png"
 ---
 The rapid expansion of artificial intelligence has created a high demand for "AI Ethicists," yet the professional identity of this role remains ill-defined. 
 In the paper **"Who is an AI Ethicist? An Empirical Study of Expertise, Skills, and Profiles to Build a Competency Framework,"** Mariangela Zoe Cocchiaro, Luciano Floridi, and their colleagues attempt to move beyond vague principles to define the specific expertise, skills, and knowledge required for this emerging profession.
